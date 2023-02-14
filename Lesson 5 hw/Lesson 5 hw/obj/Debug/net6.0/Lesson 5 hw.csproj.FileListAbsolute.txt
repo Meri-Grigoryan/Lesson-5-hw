@@ -1,0 +1,15 @@
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\bin\Debug\net6.0\Lesson 5 hw.exe
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\bin\Debug\net6.0\Lesson 5 hw.deps.json
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\bin\Debug\net6.0\Lesson 5 hw.runtimeconfig.json
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\bin\Debug\net6.0\Lesson 5 hw.dll
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\bin\Debug\net6.0\Lesson 5 hw.pdb
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\Lesson 5 hw.csproj.AssemblyReference.cache
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\Lesson 5 hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\Lesson 5 hw.AssemblyInfoInputs.cache
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\Lesson 5 hw.AssemblyInfo.cs
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\Lesson 5 hw.csproj.CoreCompileInputs.cache
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\Lesson 5 hw.dll
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\refint\Lesson 5 hw.dll
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\Lesson 5 hw.pdb
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\Lesson 5 hw.genruntimeconfig.cache
+C:\Users\SU-PC\Desktop\Mary C#\Lesson 5 hw\Lesson 5 hw\obj\Debug\net6.0\ref\Lesson 5 hw.dll
